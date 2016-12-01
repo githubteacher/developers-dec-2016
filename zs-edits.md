@@ -12,4 +12,7 @@
 - [Git SCM Website](https://git-scm.com)
 - [GitHub Guides](https://guides.github.com)
 - [GitHub Training](https://services.github.com/training/)
-Unhelpfull link
+- [Unhelpfull link](.)
+
+  Jedziemy do Lorieton w grudniu i bedziemy jedli ostrygi.
+
