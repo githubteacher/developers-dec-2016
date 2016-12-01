@@ -2,6 +2,6 @@
 
 ### Places to sample the local flavours
 
-* Los Vidda
+* Los Vida
 
 ### Fun things to do
